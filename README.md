@@ -1,66 +1,45 @@
-\# Análisis del Parque de Motos en España
+# Análisis del Parque de Motocicletas en España
 
+## Contexto
+El parque de motocicletas en España ha crecido de forma sostenida en los últimos años,
+tanto en grandes ciudades como en áreas metropolitanas. Este proyecto surge con el
+objetivo de analizar esa evolución y entender cómo se distribuyen las motos y
+ciclomotores según variables geográficas y demográficas.
 
+## Objetivos
+- Analizar la evolución del parque de motos en España
+- Comparar la distribución por comunidades y grandes ciudades
+- Explorar la relación entre población y tipo de vehículo
+- Visualizar tendencias relevantes a partir de datos públicos
 
-\## Descripción
+## Fuentes de datos
+Los datos utilizados provienen de fuentes públicas, como:
+- Registros de matriculaciones
+- Padrones municipales
+- Censos de población
+- Estadísticas de tráfico y movilidad
 
-Este proyecto analiza el parque de motocicletas y ciclomotores en España,
+## Análisis realizado
+- Evolución temporal de matriculaciones
+- Distribución del parque de motos por territorio
+- Comparación entre motocicletas y ciclomotores
+- Análisis por tipo de vehículo y franja poblacional
+- Visualización de resultados mediante gráficos
 
-utilizando datos públicos de matriculaciones, censos y padrones municipales.
+## Herramientas utilizadas
+- Python
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
 
+## Resultados principales
+- Crecimiento sostenido del parque de motocicletas
+- Mayor concentración en áreas urbanas y metropolitanas
+- Diferencias claras entre el uso de motocicletas y ciclomotores
+- Relación directa entre densidad poblacional y tipo de vehículo
 
-
-El objetivo es explorar la evolución del parque de motos, su distribución
-
-geográfica y algunas variables demográficas relacionadas.
-
-
-
-\## Contenido del proyecto
-
-\- PROYECTO MOTOS.ipynb: notebook principal con el análisis y visualizaciones
-
-\- funciones\_fc.py: funciones auxiliares utilizadas en el análisis
-
-\- README.md: descripción general del proyecto
-
-
-
-\## Requisitos
-
-\- Python 3.x
-
-\- Jupyter Notebook
-
-
-
-Librerías principales:
-
-\- pandas
-
-\- numpy
-
-\- matplotlib
-
-
-
-\## Uso
-
-1\. Clonar el repositorio
-
-2\. Abrir el notebook `PROYECTO MOTOS.ipynb`
-
-3\. Ejecutar las celdas en orden
-
-
-
-\## Notas
-
-Los archivos de datos y las imágenes generadas no se incluyen en el repositorio
-
-para mantenerlo liviano. El análisis está pensado como ejemplo de trabajo en
-
-data analytics con Python.
-
-
+## Estado del proyecto
+Proyecto finalizado como ejercicio de análisis de datos y portfolio personal.
+Los datasets completos no se incluyen en el repositorio para mantenerlo liviano.
 
